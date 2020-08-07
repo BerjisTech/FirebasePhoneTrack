@@ -1,0 +1,734 @@
+[
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_select_child.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_select_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_login.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\border_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stop_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_stop_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_forward_white_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_arrow_forward_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lock.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\activity_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_done_white_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_done_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sms.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_floating_menu.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\floating_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_delete_item.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\layout_delete_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_not_have_meme.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_not_have_meme.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_s.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\activity_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_textview_not_have.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\textview_not_have.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_up_from_bottom.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\up_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_white_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_failed_placeholder.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\failed_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_animated.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_back_animated.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_home_drawer.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\menu\\menu_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_record.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_add_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_face_meme.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_face_meme.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_backspace_white_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_backspace_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_recording.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_linked_camera_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_linked_camera_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_delete.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\icon_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_default.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ripple_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\animator_menu_to_back_rotation.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\animator\\menu_to_back_rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_app_bar.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\view_app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_instagram.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_instagram.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_arrow_up.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_view_permission.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_view_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_made_green_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_made_green_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_near_me_white_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_near_me_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_elevation.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\button_elevation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_vector.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_child_care.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_child_care.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_history_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_history_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_child_care_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_child_care_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_a_photo_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_add_a_photo_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calls.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_keylog.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_keylog.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_message_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_message_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\animator_back_to_menu_rotation.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\animator\\back_to_menu_rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_white.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\selector_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fuck_yeah_meme.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_fuck_yeah_meme.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_recording.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_whatsapp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_whatsapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_grid_layout_animation.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\grid_layout_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_red_social.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_red_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_file_download_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_file_download_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_received_blue_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_received_blue_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_number_item.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\layout_number_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in_right.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\fade_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_text_white.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\drawable_text_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_custom_toolbar.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\view_custom_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_photo.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_down_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_placeholder_profile.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_placeholder_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edittext.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_not_have_placeholder.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\not_have_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_bottom.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\gradient_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_camera_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\animator_menu_to_back_morph.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\animator\\menu_to_back_morph.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_get_recording.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\view_get_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_nav.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ripple_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fiber_manual_record_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_fiber_manual_record_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_location_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_my_location_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_animated.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_animated.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_done_item.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\layout_done_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\animator_back_to_menu_morph.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\animator\\back_to_menu_morph.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_vector.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_back_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_alert.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_item_selected.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\menu\\menu_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_recyclerview.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_open.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_lock_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_fragment.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\border_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layerlist_circle_primary.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\layerlist_circle_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_photo.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\activity_view_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_up.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_floating_button.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\floating_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_text_red.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\drawable_text_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_right.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_parent.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\activity_main_parent.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_vert_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_more_vert_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_white_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_notifications_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_background.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\login_background.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_social.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_play_arrow_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\color_navigation_item_background_tint.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\color\\navigation_item_background_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_menu_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in_left.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\fade_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_directions_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_directions_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_wait_placeholder.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\wait_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_calls.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wait_meme.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_wait_meme.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user_alert.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_user_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out_left.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\fade_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_white_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_arrow_back_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_recordings.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_recordings.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_status_key_disable_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_status_key_disable_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_messenger.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_messenger.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_status_key_enable_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_status_key_enable_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_key.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_black_24dp.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_pause_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_maps.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_select_child.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\dialog_select_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launch.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_change_time_finish_app.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\view_change_time_finish_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_down_from_top.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\down_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_child_care_red.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\ic_child_care_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_photo.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_notify_message.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_notify_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_child.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\activity_main_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_whatsapp.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_change_code_access.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\view_change_code_access.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_last_request.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\layout\\item_last_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_filled.xml.flat",
+        "source": "C:\\Users\\bened\\AndroidStudioProjects\\hack\\IsTheApp\\app\\src\\main\\res\\drawable\\dot_filled.xml"
+    }
+]

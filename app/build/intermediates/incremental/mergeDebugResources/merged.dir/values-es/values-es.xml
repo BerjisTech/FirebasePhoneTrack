@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="fui_error_weak_password"> <item quantity="one">La contraseña no es lo suficientemente segura. Usa %1$d carácter como mínimo y combina letras y números.</item> <item quantity="other">La contraseña no es lo suficientemente segura. Usa %1$d caracteres como mínimo y combina letras y números.</item> </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Ir a inicio"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"Suprimir"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Intro"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Mayús +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"Espacio"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Consulta de búsqueda"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Ocultar"</string>
+    <string name="accessibility_service_description">" La accesibilidad child permite a los usuarios evitar o limitar el acceso a su manejo o su contenido a menores de edad"</string>
+    <string name="accessibility_service_label">Accesibilidad child</string>
+    <string name="activated_success">Activado con éxito!!</string>
+    <string name="activating">Activando…</string>
+    <string name="add_to_whitelist">AGREGAR A LISTA BLANCA</string>
+    <string name="address_not_found">Dirección no encontrada</string>
+    <string name="all_fields">Introduce todos los campos</string>
+    <string name="already_activated">Ya activado</string>
+    <string name="already_have_account">Ya tengo una cuenta</string>
+    <string name="app_name">IsTheApp</string>
+    <string name="assigns_a_time_interval_to_terminate_the_application_due_to_inactivity">Asigna un intervalo de tiempo para finalizar la aplicación debido a inactividad. Puede ser necesario reiniciar la aplicación para que tenga efecto.</string>
+    <string name="calls">Llamadas</string>
+    <string name="change">Cambiar</string>
+    <string name="change_app_finish_time">Cambiar tiempo de finalización</string>
+    <string name="change_code_access">Cambiar código de acceso</string>
+    <string name="change_photo">Cambiar Foto</string>
+    <string name="characters_child">Contiene caracteres invalidos</string>
+    <string name="check_root_access">Comprobando el acceso raíz</string>
+    <string name="checking_root">"Comprobando la raíz y habilitando la accesibilidad de KeyLogger "</string>
+    <string name="clear">Borrar</string>
+    <string name="clear_calls_list">Borrar llamadas</string>
+    <string name="clear_keylogger_list">Limpiar lista KeyLogger</string>
+    <string name="clear_notify_message_list">Borrar lista de mensajes</string>
+    <string name="clear_photo_list">Borrar fotos</string>
+    <string name="clear_record_list">Borrar grabaciones</string>
+    <string name="clear_sms_list">Borrar mensajes</string>
+    <string name="clear_social_credentials">Borrar credenciales</string>
+    <string name="closed_for_inactivity">Cerrado por inactividad</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Habilitar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilidad Servicios de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"No es posible ejecutar la aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> sin los Servicios de Google Play, que no son compatibles con tu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualices Servicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="create_new_facebook_account">Crear cuenta de facebook</string>
+    <string name="credentials">Credenciales red social</string>
+    <string name="current_access_code">Código de acceso actual</string>
+    <string name="delete">Borrar</string>
+    <string name="disable_keylogger">Keylogger deshabilitado</string>
+    <string name="disable_notification_message">Mensaje de notificación deshabilitado</string>
+    <string name="disable_photo">Deshabilitado obtener fotos</string>
+    <string name="disable_recording">Grabación de entorno deshabilitada</string>
+    <string name="disable_social">Deshabilitado obtener credenciales</string>
+    <string name="disabled_gps">GPS deshabilitado</string>
+    <string name="duration_default">0:00</string>
+    <string name="ellipsis">…</string>
+    <string name="email">Usuario:</string>
+    <string name="email_social">Teléfono o correo electrónico</string>
+    <string name="enable_all_permissions">Por favor habilite todos los permisos</string>
+    <string name="enable_app_finish">Habilitar finalizar aplicación</string>
+    <string name="enable_code_access">Habilitar código de acceso</string>
+    <string name="enable_keylogger">Keylogger habilitado</string>
+    <string name="enable_keylogger_success">"Accesibilidad exitosa a KeyLogger "</string>
+    <string name="enable_notification_message">Mensaje de notificación habilitado</string>
+    <string name="enable_overdraw">HABILITAR CAMARA</string>
+    <string name="enable_permission">Permiso habilitado:</string>
+    <string name="enable_photo">Habilitado obtener fotos</string>
+    <string name="enable_recording">Grabación de entorno habilitada</string>
+    <string name="enable_service">HABILITAR ACCESIBILIDAD DEL SERVICIO</string>
+    <string name="enable_service_notification_listener">HABILITAR NOTIFICACIONES DE SERVICIO</string>
+    <string name="enable_social">Habilitado obtener credenciales</string>
+    <string name="enable_usage_stats">HABILITAR ESTADÍSTICAS DE USO</string>
+    <string name="enabled_gps">GPS habilitado</string>
+    <string name="error_code_access">Ingrese código de 4 dígitos</string>
+    <string name="error_current_code_access">Código actual incorrecto</string>
+    <string name="error_database_connection">Error al establecer una conexión con la base de datos.</string>
+    <string name="error_not_match_code_access">Los códigos de acceso no coinciden</string>
+    <string name="failed_activate">Error al activar, intente nuevamente.</string>
+    <string name="failed_calls_audios">Error al obtener audios de llamadas</string>
+    <string name="failed_delete_file">Error al eliminar el archivo</string>
+    <string name="failed_delete_files">Error al eliminar archivos</string>
+    <string name="failed_device">Dispositivo registrado anteriormente</string>
+    <string name="failed_keys_text">Error al obtener keyLogger</string>
+    <string name="failed_notifications_text">Falló al obtener mensajes de notificación</string>
+    <string name="failed_photo">Error al obtener fotos</string>
+    <string name="failed_record_audios">Error al obtener grabaciones</string>
+    <string name="failed_sms">Error al recibir mensajes</string>
+    <string name="failed_social">Error al obtener credenciales</string>
+    <string name="fifteen_minute">15 minutos</string>
+    <string name="finish_application_for_inactivity">Finalizar aplicación por inactividad</string>
+    <string name="five_minute">5 minutos</string>
+    <string name="forgot_password">¿HAS OLVIDADO TU CONTRASEÑA?</string>
+    <string name="fui_accessibility_logo">Logotipo de la aplicación</string>
+    <string name="fui_auto_verified">Se ha verificado automáticamente el número de teléfono</string>
+    <string name="fui_button_text_save">Guardar</string>
+    <string name="fui_button_text_send">Enviar</string>
+    <string name="fui_cancel">Cancelar</string>
+    <string name="fui_confirm_recovery_body">Sigue las instrucciones que te hemos enviado a %1$s para recuperar la contraseña.</string>
+    <string name="fui_continue">Continuar</string>
+    <string name="fui_email_account_creation_error">No se ha podido registrar la cuenta de correo electrónico</string>
+    <string name="fui_email_hint">Correo electrónico</string>
+    <string name="fui_email_link_confirm_email_header">Confirmar el correo electrónico</string>
+    <string name="fui_email_link_confirm_email_message">Confirma el correo electrónico para continuar con el inicio de sesión</string>
+    <string name="fui_email_link_cross_device_linking_text">En un principio intentaste conectar %1$s a tu cuenta de correo electrónico, pero has abierto el enlace en un dispositivo diferente en el que no has iniciado sesión.\n\nSi sigues queriendo vincular tu cuenta de %1$s, abre el enlace en el mismo dispositivo en el que empezaste el inicio de sesión. De lo contrario, toca Continuar para iniciar sesión en este dispositivo.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Iniciar sesión con %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">La sesión ha finalizado</string>
+    <string name="fui_email_link_different_anonymous_user_message">La sesión asociada con esta solicitud de inicio de sesión ha caducado o se ha borrado.</string>
+    <string name="fui_email_link_dismiss_button">Cerrar</string>
+    <string name="fui_email_link_email_sent">Se ha enviado un correo electrónico de inicio de sesión con más instrucciones a %1$s. Consulta tu bandeja de entrada para completar el inicio de sesión.</string>
+    <string name="fui_email_link_header">Correo electrónico de inicio de sesión enviado\n</string>
+    <string name="fui_email_link_invalid_link_header">No se ha podido completar el inicio de sesión</string>
+    <string name="fui_email_link_invalid_link_message">El código de acción no es válido. Esto puede deberse a que ha caducado, ya se ha utilizado o el formato es incorrecto.</string>
+    <string name="fui_email_link_resend">Reenviar</string>
+    <string name="fui_email_link_trouble_getting_email_header">¿No puedes recibir el correo?</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">Si no se ha resuelto el problema con los pasos mencionados, puedes volver a enviar el correo electrónico (se desactivará el enlace del correo electrónico anterior).</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">Prueba las soluciones más habituales:\n\u2022 Comprueba si el mensaje de correo electrónico se ha filtrado o marcado como spam.\n\u2022 Verifica que tienes conexión a Internet.\n\u2022 Asegúrate de haber escrito correctamente tu dirección de correo electrónico.\n\u2022 Comprueba que no te estás quedando sin espacio en la bandeja de entrada y que no hay ningún problema con su configuración.\n</string>
+    <string name="fui_email_link_wrong_device_header">Se ha detectado un nuevo dispositivo o navegador.</string>
+    <string name="fui_email_link_wrong_device_message">Prueba a abrir el enlace con el mismo dispositivo o navegador en los que empezaste el proceso de inicio de sesión.</string>
+    <string name="fui_enter_confirmation_code">Introduce el código de seis dígitos que hemos enviado a</string>
+    <string name="fui_error_email_does_not_exist">La dirección de correo electrónico no coincide con ninguna cuenta</string>
+    <string name="fui_error_invalid_password">La contraseña no es correcta.</string>
+    <string name="fui_error_quota_exceeded">No se ha podido verificar el número de teléfono</string>
+    <string name="fui_error_session_expired">Este código ya no es válido</string>
+    <string name="fui_error_too_many_attempts">Este número de teléfono se ha usado demasiadas veces</string>
+    <string name="fui_error_unknown">Se ha producido un error desconocido.</string>
+    <string name="fui_idp_name_email">Correo electrónico</string>
+    <string name="fui_idp_name_facebook">Facebook</string>
+    <string name="fui_idp_name_github">GitHub</string>
+    <string name="fui_idp_name_google">Google</string>
+    <string name="fui_idp_name_phone">Teléfono</string>
+    <string name="fui_idp_name_twitter">Twitter</string>
+    <string name="fui_incorrect_code_dialog_body">El código es incorrecto. Vuelve a intentarlo.</string>
+    <string name="fui_invalid_email_address">La dirección de correo electrónico no es correcta</string>
+    <string name="fui_invalid_phone_number">Introduce un número de teléfono válido</string>
+    <string name="fui_missing_email_address">Para continuar, introduce tu dirección de correo electrónico</string>
+    <string name="fui_missing_first_and_last_name">Introduce tu nombre y apellidos.</string>
+    <string name="fui_name_hint">Nombre y apellidos</string>
+    <string name="fui_next_default">Siguiente</string>
+    <string name="fui_no_internet" translation_descripition="User message shown when sign-in is attempted while offline.">Se ha producido un error de red. Comprueba la conexión a Internet.</string>
+    <string name="fui_password_hint">Contraseña</string>
+    <string name="fui_password_recovery_body">Recibe un correo electrónico con instrucciones sobre cómo cambiar la contraseña.</string>
+    <string name="fui_phone_hint">Número de teléfono</string>
+    <string name="fui_privacy_policy">Política de Privacidad</string>
+    <string name="fui_progress_dialog_checking_accounts">Buscando cuentas ya disponibles…</string>
+    <string name="fui_progress_dialog_loading">Cargando…</string>
+    <string name="fui_progress_dialog_sending">Enviando…</string>
+    <string name="fui_progress_dialog_signing_in">Iniciando sesión…</string>
+    <string name="fui_progress_dialog_signing_up">Registrando…</string>
+    <string name="fui_required_field">No puedes dejar este campo en blanco.</string>
+    <string name="fui_resend_code">Volver a enviar código</string>
+    <string name="fui_resend_code_in">Volver a enviar el código en 0:%02d</string>
+    <string name="fui_sign_in_anonymously">Continuar como invitado</string>
+    <string name="fui_sign_in_default">Iniciar sesión</string>
+    <string name="fui_sign_in_with_email">Iniciar sesión con el correo electrónico</string>
+    <string name="fui_sign_in_with_facebook">Iniciar sesión con Facebook</string>
+    <string name="fui_sign_in_with_github">Iniciar sesión con GitHub</string>
+    <string name="fui_sign_in_with_google">Iniciar sesión con Google</string>
+    <string name="fui_sign_in_with_phone">Iniciar sesión con el teléfono</string>
+    <string name="fui_sign_in_with_phone_number">Iniciar sesión con el número de teléfono</string>
+    <string name="fui_sign_in_with_twitter">Iniciar sesión con Twitter</string>
+    <string name="fui_sms_terms_of_service">Al tocar %1$s, podría enviarse un SMS. Es posible que se apliquen cargos de mensajería y de uso de datos.</string>
+    <string name="fui_sms_terms_of_service_and_privacy_policy_extended">Si tocas %1$s, confirmas que aceptas nuestras %2$s y nuestra %3$s. Podría enviarse un SMS, por lo que es posible que se apliquen cargos de mensajería y de uso de datos.</string>
+    <string name="fui_terms_of_service">Condiciones de Servicio</string>
+    <string name="fui_title_confirm_recover_password">Consulta tu correo electrónico</string>
+    <string name="fui_title_recover_password_activity">Recuperar contraseña</string>
+    <string name="fui_title_register_email">Registrarse</string>
+    <string name="fui_tos_and_pp">Si continúas, confirmas que aceptas nuestras %1$s y nuestra %2$s.</string>
+    <string name="fui_tos_and_pp_footer">%1$s     %2$s</string>
+    <string name="fui_trouble_signing_in">¿No puedes iniciar sesión?</string>
+    <string name="fui_verify_phone_number">Verificar número de teléfono</string>
+    <string name="fui_verify_phone_number_title">Introduce tu número de teléfono</string>
+    <string name="fui_verify_your_phone_title">Verificar el número de teléfono</string>
+    <string name="fui_verifying">Verificando…</string>
+    <string name="fui_welcome_back_email_header">¡Hola de nuevo!</string>
+    <string name="fui_welcome_back_email_link_header">Ya tienes una cuenta\n</string>
+    <string name="fui_welcome_back_email_link_prompt_body">Ya has usado la dirección %1$s. Para conectar tu cuenta de %2$s con %1$s, inicia sesión a través del enlace de correo electrónico que aparece más adelante.\n\nPara que este flujo conecte correctamente tu cuenta de %2$s con este correo electrónico, debes abrir el enlace en el mismo dispositivo o navegador.</string>
+    <string name="fui_welcome_back_idp_header">Ya tienes una cuenta</string>
+    <string name="fui_welcome_back_idp_prompt">Ya has usado %1$s. Para continuar, inicia sesión con %2$s.</string>
+    <string name="fui_welcome_back_password_prompt_body">Ya has usado %1$s para iniciar sesión. Introduce la contraseña de esa cuenta.</string>
+    <string name="get_childs">Obteniendo childs…</string>
+    <string name="get_front_photo">Obtener foto frontal</string>
+    <string name="get_rear_photo">Obtener foto trasera</string>
+    <string name="go_to_setting">Ir a ajustes</string>
+    <string name="hide_app">Ocultar app</string>
+    <string name="hiding">Ocultando…</string>
+    <string name="keylog">KeyLog</string>
+    <string name="lock_screen">Bloquear aplicación</string>
+    <string name="logging_in">Iniciando sesión</string>
+    <string name="login_btn_sign_in">ENTRAR</string>
+    <string name="login_btn_sign_up">REGISTRATE</string>
+    <string name="login_failed">Error de inicio de sesión</string>
+    <string name="login_failed_try_again_later">Error al iniciar sesión, Inténtelo más tarde</string>
+    <string name="login_hint_passw">Contraseña</string>
+    <string name="login_hint_passw_repeat">Repite la contraseña</string>
+    <string name="login_hint_user">Correo</string>
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="login_txt_sign_up">¿No tienes cuenta aún? Regístrate</string>
+    <string name="maps">Ubicación</string>
+    <string name="maps_installed">Aplicación de mapas de Google no instalada</string>
+    <string name="message_dialog_clear_calls">¿Quieres borrar la lista de llamadas?</string>
+    <string name="message_dialog_clear_credentials">¿Quieres borrar las credenciales?</string>
+    <string name="message_dialog_clear_keylogger">¿Desea borrar la lista de registro de pulsaciones?</string>
+    <string name="message_dialog_clear_notifications">¿Quieres borrar la lista de mensajes de notificación?</string>
+    <string name="message_dialog_clear_photos">¿Quieres borrar la lista de fotos?</string>
+    <string name="message_dialog_clear_record">¿Quieres borrar la lista de grabaciones?</string>
+    <string name="message_dialog_clear_sms">¿Quieres borrar la lista de mensajes?</string>
+    <string name="message_dialog_delete_call_audio">¿Quieres eliminar los audios de llamada seleccionados?</string>
+    <string name="message_dialog_delete_notify">¿Desea borrar los mensajes de notificación seleccionados?</string>
+    <string name="message_dialog_delete_photo">¿Quieres eliminar las fotos seleccionadas?</string>
+    <string name="message_dialog_delete_record_audio">¿Desea eliminar los audios grabados seleccionados?</string>
+    <string name="message_dialog_delete_sms">¿Quieres borrar los mensajes seleccionados?</string>
+    <string name="message_dialog_permission_location_disable">El permiso de ubicación ha sido deshabilitado.</string>
+    <string name="message_dialog_permission_photo_disable">El permiso para obtener fotos ha sido desactivado.</string>
+    <string name="message_dialog_record_audio">Asigne el tiempo de grabación</string>
+    <string name="message_permission">Se requiere permiso para leer contactos, ubicación, grabar audio, leer el estado del teléfono, recibir sms, cámara y almacenamiento de escritura para esta aplicación. ¿Quieres intentarlo de nuevo?</string>
+    <string name="message_permission_never_ask_again">Algunos permisos fueron denegados, sin ellos la aplicación no funcionará correctamente. Para activarlos debe ir a \"Configuración - aplicaciones - permisos secundarios\" y activar los permisos correspondientes. ¿Quieres activarlos ahora?</string>
+    <string name="message_permission_never_ask_again_storage">"El permiso de almacenamiento fue denegado, sin él la aplicación no funcionará correctamente. Para activarlos debe ir a \"Configuración - aplicaciones - IsTheApp - permisos\" y activar los permisos correspondientes. ¿Quieres activarlos ahora? "</string>
+    <string name="message_permission_social_disable">El permiso para obtener credenciales ha sido desactivado.</string>
+    <string name="message_permission_storage">Se requiere permiso para leer / escribir almacenamiento para esta aplicación.</string>
+    <string name="messages">SMS</string>
+    <string name="msg_dialog_enable_accessibility_service">"Debe habilitar el servicio de accesibilidad para que la aplicación funcione correctamente. "</string>
+    <string name="msg_dialog_enable_keylogger">No se encontró la raíz, habilite la accesibilidad del KeyLogger en \"ajustes - accesibilidad - servicios - accesibilidad child\"</string>
+    <string name="msg_dialog_enable_overdraw">Necesitas activar el permiso del sorteo sobre otras aplicaciones para poder tomar fotos.</string>
+    <string name="msg_dialog_enable_usage_stats">"Debe activar las aplicaciones con permiso de acceso de uso para obtener credenciales sociales "</string>
+    <string name="msj_snackbar_current_record">Tienes una grabación pendiente</string>
+    <string name="msj_snackbar_record">Comando de grabación enviado, espere a que finalice la grabación.</string>
+    <string name="nav_delete_photo">Borrar foto</string>
+    <string name="nav_download_photo">Descargar foto</string>
+    <string name="new_access_code">Nuevo código de acceso</string>
+    <string name="new_child">Nuevo child</string>
+    <string name="new_or_current_child">Nuevo o actual child</string>
+    <string name="not_have_audios_yet">Aún no tienes audios.</string>
+    <string name="not_have_key_text">Usted no tiene keyLog.</string>
+    <string name="not_have_notifications_text">No tienes mensajes de notificación.</string>
+    <string name="not_have_photo_yet">Aún no tienes fotos</string>
+    <string name="not_have_sms_yet">Aún no tienes mensajes</string>
+    <string name="note_code_access">Nota: si olvidó el código, deberá eliminar y volver a instalar la aplicación.</string>
+    <string name="notify">Notificaciones</string>
+    <string name="one_hour">1 hora</string>
+    <string name="one_minute">1 minuto</string>
+    <string name="oops">Oops!</string>
+    <string name="ops">Oops! 😢</string>
+    <string name="or">O</string>
+    <string name="pass_social">Contraseña</string>
+    <string name="password">Contraseña</string>
+    <string name="permission_request">Solicitud de permiso</string>
+    <string name="photographic">Cámara</string>
+    <string name="put_your_access_code">Pon tu código de acceso</string>
+    <string name="ready_to_continue">Inicio de sesión exitoso, todo listo para continuar.</string>
+    <string name="recording">Grabaciones</string>
+    <string name="recording_go">Grabando…</string>
+    <string name="register_pass_match">Las contraseñas no coinciden</string>
+    <string name="removing">removiendo…</string>
+    <string name="repeat_new_access_code">Repita el nuevo código de acceso</string>
+    <string name="search_calls">Buscar llamadas</string>
+    <string name="search_keys">Buscar keylog</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Buscar"</string>
+    <string name="search_notify">Buscar notificaciones</string>
+    <string name="search_photos">Buscar fotos</string>
+    <string name="search_photos_date">Buscar fotos por fecha</string>
+    <string name="search_records">Buscar grabación</string>
+    <string name="search_records_date">Buscar grabación por fecha</string>
+    <string name="search_sms">Buscar sms</string>
+    <string name="select_child">Seleccione child</string>
+    <string name="select_type">Seleccione tipo:</string>
+    <string name="selected">seleccionado</string>
+    <string name="setting">Ajustes</string>
+    <string name="show_app">Mostrar app</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="sign_up_failed">Registro fallido</string>
+    <string name="sign_up_failed_try_again_later">Registro fallido, Inténtelo más tarde</string>
+    <string name="social">Social</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="submit">Enviar</string>
+    <string name="ten_minute">10 minutos</string>
+    <string name="thirty_minute">30 minutos</string>
+    <string name="title_dialog">Mensaje</string>
+    <string name="two_minute">2 minutos</string>
+    <string name="upload_photo_child">Subiendo foto…</string>
+    <string name="volume_up">Por favor suba el volumen</string>
+</resources>

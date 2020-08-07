@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="fui_error_weak_password"> <item quantity="one">Geslo ni dovolj zapleteno. Uporabite vsaj %1$d znak in kombinacijo črk ter številk.</item> <item quantity="two">Geslo ni dovolj zapleteno. Uporabite vsaj %1$d znaka in kombinacijo črk ter številk.</item> <item quantity="few">Geslo ni dovolj zapleteno. Uporabite vsaj %1$d znake in kombinacijo črk ter številk.</item> <item quantity="other">Geslo ni dovolj zapleteno. Uporabite vsaj %1$d znakov in kombinacijo črk ter številk.</item> </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Krmarjenje na začetek"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Pomik navzgor"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Več možnosti"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Končano"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Izbira aplikacije"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"IZKLOP"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"VKLOP"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"preslednica"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Meni +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Iskanje …"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Izbris poizvedbe"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Iskalna poizvedba"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Iskanje"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Pošiljanje poizvedbe"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Skupna raba z:"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Skupna raba z drugimi prek aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Strnitev"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Omogoči"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne bo delovala, če ne omogočite storitev Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Omogočanje storitev Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Namesti"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, vendar teh ni v napravi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Namestitev storitev Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Dostopnost storitev Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Napaka storitev Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ima težave s storitvami Google Play. Poskusite znova."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Posodobi"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne bo delovala, če ne posodobite storitev Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Posodobitev storitev Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> ne deluje brez storitev Google Play, ki se trenutno posodabljajo."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Odpiranje v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prijava"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prijava z Google Računom"</string>
+    <string name="fui_accessibility_logo">Logotip aplikacije</string>
+    <string name="fui_auto_verified">Telefonska številka je bila samodejno preverjena</string>
+    <string name="fui_button_text_save">Shrani</string>
+    <string name="fui_button_text_send">Pošlji</string>
+    <string name="fui_cancel">Prekliči</string>
+    <string name="fui_confirm_recovery_body">Če želite obnoviti geslo, upoštevajte navodila, poslana na naslov %1$s.</string>
+    <string name="fui_continue">Naprej</string>
+    <string name="fui_email_account_creation_error">Registracija e-poštnega računa ni bila uspešna</string>
+    <string name="fui_email_hint">E-pošta</string>
+    <string name="fui_email_link_confirm_email_header">Potrdite e-poštni naslov</string>
+    <string name="fui_email_link_confirm_email_message">Če želite nadaljevati s prijavo, potrdite e-poštni naslov</string>
+    <string name="fui_email_link_cross_device_linking_text">Najprej ste želeli račun %1$s povezati z e-poštnim računom, vendar ste povezavo odprli v drugi napravi, kjer niste prijavljeni.\n\nČe želite še vedno povezati račun %1$s, odprite povezavo v napravi, v kateri ste začeli s prijavo. V nasprotnem primeru se dotaknite možnosti »Nadaljuj«, da se prijavite v tej napravi.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Prijava z računom %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">Seja se je končala</string>
+    <string name="fui_email_link_different_anonymous_user_message">Seja, povezana s to zahtevo za prijavo, je potekla ali je bila izbrisana.</string>
+    <string name="fui_email_link_dismiss_button">Opusti</string>
+    <string name="fui_email_link_email_sent">E-poštno sporočilo za prijavo z dodatnimi navodili je bilo poslano na %1$s. Preverite e-pošto in dokončajte prijavo.</string>
+    <string name="fui_email_link_header">E-poštno sporočilo za prijavo je bilo poslano\n</string>
+    <string name="fui_email_link_invalid_link_header">Prijave ni mogoče dokončati</string>
+    <string name="fui_email_link_invalid_link_message">Aktivacijska koda ni veljavna. To se lahko zgodi, če koda ni pravilne oblike, je potekla ali je že bila uporabljena.</string>
+    <string name="fui_email_link_resend">Pošlji znova</string>
+    <string name="fui_email_link_trouble_getting_email_header">Niste prejeli e-poštnega sporočila?</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">Če z zgornjimi koraki ne odpravite težave, lahko znova pošljete e-poštno sporočilo. Upoštevajte, da boste s tem onemogočili povezavo v prejšnjem e-poštnem sporočilu.</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">Poskusite te splošne rešitve:\n\u2022 Preverite, ali je bilo e-poštno sporočilo označeno kot vsiljena pošta ali filtrirano.\n\u2022 Preverite internetno povezavo.\n\u2022 Preverite, ali je e-poštni naslov pravilno zapisan.\n\u2022 Zagotovite, da imate v mapi »Prejeto« dovolj prostora oziroma da ni prišlo do drugih težav, povezanih z nastavitvami mape »Prejeto«.\n</string>
+    <string name="fui_email_link_wrong_device_header">Zaznana je bila nova naprava ali brskalnik.</string>
+    <string name="fui_email_link_wrong_device_message">Povezavo poskusite odpreti v isti napravi ali brskalniku, kjer ste začeli postopek prijave.</string>
+    <string name="fui_enter_confirmation_code">Vnesite 6-mestno kodo, ki smo jo poslali na številko</string>
+    <string name="fui_error_email_does_not_exist">E-poštni naslov se ne ujema z obstoječim računom</string>
+    <string name="fui_error_invalid_password">Napačno geslo.</string>
+    <string name="fui_error_quota_exceeded">Pri preverjanju telefonske številke je prišlo do težave</string>
+    <string name="fui_error_session_expired">Koda ni več veljavna</string>
+    <string name="fui_error_too_many_attempts">Telefonska številka je bila uporabljena prevečkrat</string>
+    <string name="fui_error_unknown">Neznana napaka.</string>
+    <string name="fui_idp_name_email">E-pošta</string>
+    <string name="fui_idp_name_facebook">Facebook</string>
+    <string name="fui_idp_name_github">GitHub</string>
+    <string name="fui_idp_name_google">Google</string>
+    <string name="fui_idp_name_phone">Telefon</string>
+    <string name="fui_idp_name_twitter">Twitter</string>
+    <string name="fui_incorrect_code_dialog_body">Napačna koda. Poskusite znova.</string>
+    <string name="fui_invalid_email_address">E-poštni naslov ni pravilen</string>
+    <string name="fui_invalid_phone_number">Vnesite veljavno telefonsko številko</string>
+    <string name="fui_missing_email_address">Če želite nadaljevati, vnesite svoj e-poštni naslov</string>
+    <string name="fui_missing_first_and_last_name">Vnesite ime in priimek.</string>
+    <string name="fui_name_hint">Ime in priimek</string>
+    <string name="fui_next_default">Naprej</string>
+    <string name="fui_no_internet" translation_descripition="User message shown when sign-in is attempted while offline.">Napaka v omrežju. Preverite internetno povezavo.</string>
+    <string name="fui_password_hint">Geslo</string>
+    <string name="fui_password_recovery_body">Na ta e-poštni naslov vam bomo poslali navodila za ponastavitev gesla.</string>
+    <string name="fui_phone_hint">Telefonska številka</string>
+    <string name="fui_privacy_policy">Pravilnik o zasebnosti</string>
+    <string name="fui_progress_dialog_checking_accounts">Preverjanje, ali že obstajajo računi…</string>
+    <string name="fui_progress_dialog_loading">Nalaganje…</string>
+    <string name="fui_progress_dialog_sending">Pošiljanje…</string>
+    <string name="fui_progress_dialog_signing_in">Prijavljanje…</string>
+    <string name="fui_progress_dialog_signing_up">Registriranje…</string>
+    <string name="fui_required_field">To polje ne sme biti prazno.</string>
+    <string name="fui_resend_code">Ponovno pošlji kodo</string>
+    <string name="fui_resend_code_in">Ponovno pošlji kodo čez 0:%02d</string>
+    <string name="fui_sign_in_anonymously">Nadaljuj kot gost</string>
+    <string name="fui_sign_in_default">Prijava</string>
+    <string name="fui_sign_in_with_email">Prijava z e-poštnim naslovom</string>
+    <string name="fui_sign_in_with_facebook">Prijava z računom za Facebook</string>
+    <string name="fui_sign_in_with_github">Prijava z računom za GitHub</string>
+    <string name="fui_sign_in_with_google">Prijava z Google Računom</string>
+    <string name="fui_sign_in_with_phone">Prijava s telefonom</string>
+    <string name="fui_sign_in_with_phone_number">Prijava s telefonsko številko</string>
+    <string name="fui_sign_in_with_twitter">Prijava z računom za Twitter</string>
+    <string name="fui_sms_terms_of_service">Če se dotaknete možnosti »%1$s«, bo morda poslano sporočilo SMS. Pošiljanje sporočila in prenos podatkov boste morda morali plačati.</string>
+    <string name="fui_sms_terms_of_service_and_privacy_policy_extended">Če se dotaknete možnosti »%1$s«, potrjujete, da se strinjate z dokumentoma %2$s in %3$s. Morda bo poslano sporočilo SMS. Pošiljanje sporočila in prenos podatkov boste morda morali plačati.</string>
+    <string name="fui_terms_of_service">pogoji storitve</string>
+    <string name="fui_title_confirm_recover_password">Preverite e-pošto</string>
+    <string name="fui_title_recover_password_activity">Obnovitev gesla</string>
+    <string name="fui_title_register_email">Registrirajte se</string>
+    <string name="fui_tos_and_pp">Z nadaljevanjem potrjujete, da se strinjate z dokumentoma %1$s in %2$s.</string>
+    <string name="fui_tos_and_pp_footer">%1$s \u00A0 \u00A0 %2$s</string>
+    <string name="fui_trouble_signing_in">Ali imate težave pri prijavi?</string>
+    <string name="fui_verify_phone_number">Preverjanje telefonske številke</string>
+    <string name="fui_verify_phone_number_title">Vnesite telefonsko številko</string>
+    <string name="fui_verify_your_phone_title">Preverjanje telefonske številke</string>
+    <string name="fui_verifying">Preverjanje…</string>
+    <string name="fui_welcome_back_email_header">Dobrodošli nazaj!</string>
+    <string name="fui_welcome_back_email_link_header">Račun že imate\n</string>
+    <string name="fui_welcome_back_email_link_prompt_body">%1$s ste že uporabili. Račun za %2$s lahko povežete z e-poštnim naslovom %1$s tako, da se prijavite na spodnji povezavi.\n\nČe želite račun za %2$s uspešno povezati s tem e-poštnim naslovom, morate povezavi odpreti v isti napravi ali brskalniku.</string>
+    <string name="fui_welcome_back_idp_header">Račun že imate</string>
+    <string name="fui_welcome_back_idp_prompt">E-poštni naslov %1$s ste že uporabili. Če želite nadaljevati, se prijavite z računom za %2$s.</string>
+    <string name="fui_welcome_back_password_prompt_body">E-poštni naslov %1$s ste že uporabili za prijavo. Vnesite geslo za ta račun.</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Iskanje"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

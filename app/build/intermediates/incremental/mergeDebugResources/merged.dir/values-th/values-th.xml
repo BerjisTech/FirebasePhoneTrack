@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="fui_error_weak_password"> <item quantity="one">รหัสผ่านไม่รัดกุมมากพอ ใช้อักขระอย่างน้อย %1$d ตัวและต้องเป็นตัวอักษรปนกับตัวเลข</item> <item quantity="other">รหัสผ่านไม่รัดกุมมากพอ ใช้อักขระอย่างน้อย %1$d ตัวและต้องเป็นตัวอักษรปนกับตัวเลข</item> </plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"กลับ"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"เสร็จ"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ปิด"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"เปิด"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"ลบ"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"เมนู+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"ล้างคำค้นหา"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"คำค้นหา"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"ส่งคำค้นหา"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"แชร์ทาง <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"เปิดใช้"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"เปิดใช้บริการ Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ติดตั้ง"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"ติดตั้งบริการ Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"ความพร้อมใช้งานของบริการ Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"ข้อผิดพลาดของบริการ Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"อัปเดต"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"อัปเดตบริการ Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"เปิดบนโทรศัพท์"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ลงชื่อเข้าใช้"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"ลงชื่อเข้าใช้ด้วย Google"</string>
+    <string name="fui_accessibility_logo">โลโก้แอป</string>
+    <string name="fui_auto_verified">ยืนยันหมายเลขโทรศัพท์โดยอัตโนมัติแล้ว</string>
+    <string name="fui_button_text_save">บันทึก</string>
+    <string name="fui_button_text_send">ส่ง</string>
+    <string name="fui_cancel">ยกเลิก</string>
+    <string name="fui_confirm_recovery_body">ทำตามวิธีการที่ส่งไปยัง %1$s เพื่อกู้คืนรหัสผ่านของคุณ</string>
+    <string name="fui_continue">ต่อไป</string>
+    <string name="fui_email_account_creation_error">การลงทะเบียนบัญชีอีเมลไม่สำเร็จ</string>
+    <string name="fui_email_hint">อีเมล</string>
+    <string name="fui_email_link_confirm_email_header">ยืนยันอีเมล</string>
+    <string name="fui_email_link_confirm_email_message">ยืนยันอีเมลเพื่อลงชื่อเข้าใช้ต่อ</string>
+    <string name="fui_email_link_cross_device_linking_text">แต่เดิมคุณตั้งใจที่จะเชื่อม %1$s เข้ากับบัญชีอีเมลแต่ได้เปิดลิงก์บนอุปกรณ์อื่นที่ไม่ได้ลงชื่อเข้าใช้\n\nหากยังต้องการเชื่อมบัญชี %1$s ให้เปิดลิงก์บนอุปกรณ์เดียวกันกับที่เริ่มลงชื่อเข้าใช้ หรือแตะ \"ต่อไป\" เพื่อลงชื่อเข้าใช้บนอุปกรณ์นี้</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">ลงชื่อเข้าใช้ด้วย %1$s</string>
+    <string name="fui_email_link_different_anonymous_user_header">สิ้นสุดเซสชันแล้ว</string>
+    <string name="fui_email_link_different_anonymous_user_message">เซสชันที่เชื่อมโยงกับคำขอลงชื่อเข้าใช้นี้หมดอายุหรือถูกล้างไปแล้ว</string>
+    <string name="fui_email_link_dismiss_button">ปิด</string>
+    <string name="fui_email_link_email_sent">ระบบได้ส่งอีเมลลงชื่อเข้าใช้พร้อมวิธีการเพิ่มเติมไปยัง %1$s แล้ว โปรดตรวจสอบอีเมลเพื่อลงชื่อเข้าใช้</string>
+    <string name="fui_email_link_header">ส่งอีเมลลงชื่อเข้าใช้แล้ว\n</string>
+    <string name="fui_email_link_invalid_link_header">ลงชื่อเข้าใช้ไม่สำเร็จ</string>
+    <string name="fui_email_link_invalid_link_message">รหัสการทำงานไม่ถูกต้อง เหตุการณ์นี้อาจเกิดขึ้นหากรหัสผิดรูปแบบ หมดอายุแล้ว หรือมีการใช้งานอยู่แล้ว</string>
+    <string name="fui_email_link_resend">ส่งซ้ำ</string>
+    <string name="fui_email_link_trouble_getting_email_header">มีปัญหาในการรับอีเมลใช่ไหม</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">คุณอาจส่งอีเมลอีกครั้งได้ หากขั้นตอนข้างต้นไม่ช่วยแก้ไขปัญหา โปรดทราบว่าการกระทำดังกล่าวจะเป็นการปิดใช้งานลิงก์ในอีเมลเก่า</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">ลองใช้วิธีแก้ไขทั่วไปเหล่านี้:\n\u2022 ตรวจสอบว่าอีเมลดังกล่าวมีการทำเครื่องหมายว่าเป็นสแปมหรือผ่านการกรอง\n\u2022 ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต\n\u2022 ตรวจสอบว่าสะกดชื่ออีเมลถูกต้องแล้ว\n\u2022 ตรวจสอบว่ายังมีพื้นที่เหลือในกล่องจดหมายหรือไม่มีปัญหาอื่นๆ ที่เกี่ยวกับการตั้งค่ากล่องจดหมาย\n</string>
+    <string name="fui_email_link_wrong_device_header">พบการใช้อุปกรณ์หรือเบราว์เซอร์ใหม่</string>
+    <string name="fui_email_link_wrong_device_message">ลองเปิดลิงก์โดยใช้อุปกรณ์หรือเบราว์เซอร์เดียวกันกับที่คุณใช้ในขั้นตอนการลงชื่อเข้าใช้</string>
+    <string name="fui_enter_confirmation_code">ป้อนรหัส 6 หลักที่เราส่งไปยัง</string>
+    <string name="fui_error_email_does_not_exist">ที่อยู่อีเมลไม่ตรงกับบัญชีที่มีอยู่</string>
+    <string name="fui_error_invalid_password">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="fui_error_quota_exceeded">เกิดปัญหาในการยืนยันหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="fui_error_session_expired">ไม่สามารถใช้รหัสนี้ได้อีกต่อไป</string>
+    <string name="fui_error_too_many_attempts">มีการใช้หมายเลขโทรศัพท์นี้หลายครั้งเกินไป</string>
+    <string name="fui_error_unknown">เกิดข้อผิดพลาดที่ไม่รู้จัก</string>
+    <string name="fui_idp_name_email">อีเมล</string>
+    <string name="fui_idp_name_facebook">Facebook</string>
+    <string name="fui_idp_name_github">GitHub</string>
+    <string name="fui_idp_name_google">Google</string>
+    <string name="fui_idp_name_phone">โทรศัพท์</string>
+    <string name="fui_idp_name_twitter">Twitter</string>
+    <string name="fui_incorrect_code_dialog_body">รหัสไม่ถูกต้อง โปรดลองอีกครั้ง</string>
+    <string name="fui_invalid_email_address">ที่อยู่อีเมลนี้ไม่ถูกต้อง</string>
+    <string name="fui_invalid_phone_number">ป้อนหมายเลขโทรศัพท์ที่ถูกต้อง</string>
+    <string name="fui_missing_email_address">ป้อนที่อยู่อีเมลของคุณเพื่อดำเนินการต่อ</string>
+    <string name="fui_missing_first_and_last_name">โปรดป้อนชื่อและนามสกุล</string>
+    <string name="fui_name_hint">ชื่อและนามสกุล</string>
+    <string name="fui_next_default">ถัดไป</string>
+    <string name="fui_no_internet" translation_descripition="User message shown when sign-in is attempted while offline.">เกิดข้อผิดพลาดของเครือข่าย โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="fui_password_hint">รหัสผ่าน</string>
+    <string name="fui_password_recovery_body">ดูวิธีการที่ส่งไปยังอีเมลนี้ซึ่งอธิบายเกี่ยวกับวิธีรีเซ็ตรหัสผ่านของคุณ</string>
+    <string name="fui_phone_hint">หมายเลขโทรศัพท์</string>
+    <string name="fui_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="fui_progress_dialog_checking_accounts">กำลังตรวจสอบบัญชีที่มีอยู่…</string>
+    <string name="fui_progress_dialog_loading">กำลังโหลด…</string>
+    <string name="fui_progress_dialog_sending">กำลังส่ง…</string>
+    <string name="fui_progress_dialog_signing_in">กำลังลงชื่อเข้าใช้…</string>
+    <string name="fui_progress_dialog_signing_up">กำลังลงชื่อสมัครใช้…</string>
+    <string name="fui_required_field">ต้องป้อนข้อมูลในช่องนี้</string>
+    <string name="fui_resend_code">ส่งรหัสอีกครั้ง</string>
+    <string name="fui_resend_code_in">ส่งรหัสอีกครั้งใน 0:%02d</string>
+    <string name="fui_sign_in_anonymously">ดำเนินการต่อในฐานะผู้เข้าร่วม</string>
+    <string name="fui_sign_in_default">ลงชื่อเข้าใช้</string>
+    <string name="fui_sign_in_with_email">ลงชื่อเข้าใช้ด้วยอีเมล</string>
+    <string name="fui_sign_in_with_facebook">ลงชื่อเข้าใช้ด้วย Facebook</string>
+    <string name="fui_sign_in_with_github">ลงชื่อเข้าใช้ด้วย GitHub</string>
+    <string name="fui_sign_in_with_google">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="fui_sign_in_with_phone">ลงชื่อเข้าใช้ด้วยโทรศัพท์</string>
+    <string name="fui_sign_in_with_phone_number">ลงชื่อเข้าใช้ด้วยหมายเลขโทรศัพท์</string>
+    <string name="fui_sign_in_with_twitter">ลงชื่อเข้าใช้ด้วย Twitter</string>
+    <string name="fui_sms_terms_of_service">เมื่อคุณแตะ “%1$s” ระบบจะส่ง SMS ให้คุณ อาจมีค่าบริการรับส่งข้อความและค่าบริการอินเทอร์เน็ต</string>
+    <string name="fui_sms_terms_of_service_and_privacy_policy_extended">การแตะ “%1$s” แสดงว่าคุณยอมรับ %2$s และ %3$s ระบบจะส่ง SMS ให้คุณ อาจมีค่าบริการรับส่งข้อความและค่าบริการอินเทอร์เน็ต</string>
+    <string name="fui_terms_of_service">ข้อกำหนดในการให้บริการ</string>
+    <string name="fui_title_confirm_recover_password">ตรวจสอบอีเมลของคุณ</string>
+    <string name="fui_title_recover_password_activity">กู้คืนรหัสผ่าน</string>
+    <string name="fui_title_register_email">ลงชื่อสมัครใช้</string>
+    <string name="fui_tos_and_pp">การดำเนินการต่อแสดงว่าคุณยอมรับ %1$s และ %2$s</string>
+    <string name="fui_tos_and_pp_footer">%1$s \u00A0 \u00A0 %2$s</string>
+    <string name="fui_trouble_signing_in">หากพบปัญหาในการลงชื่อเช้าใช้</string>
+    <string name="fui_verify_phone_number">ยืนยันหมายเลขโทรศัพท์</string>
+    <string name="fui_verify_phone_number_title">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="fui_verify_your_phone_title">ยืนยันหมายเลขโทรศัพท์</string>
+    <string name="fui_verifying">กำลังยืนยัน…</string>
+    <string name="fui_welcome_back_email_header">ยินดีต้อนรับอีกครั้ง!</string>
+    <string name="fui_welcome_back_email_link_header">คุณมีบัญชีแล้ว\n</string>
+    <string name="fui_welcome_back_email_link_prompt_body">คุณใช้ %1$s แล้ว คุณจะเชื่อมต่อบัญชี %2$s กับ %1$s ได้โดยลงชื่อเข้าใช้ด้วยลิงก์อีเมลด้านล่าง\n\nหากต้องการเชื่อมต่อบัญชี %2$s กับอีเมลนี้ให้สำเร็จ คุณต้องเปิดลิงก์บนอุปกรณ์หรือเบราว์เซอร์เดียวกัน</string>
+    <string name="fui_welcome_back_idp_header">คุณมีบัญชีอยู่แล้ว</string>
+    <string name="fui_welcome_back_idp_prompt">คุณใช้ %1$s อยู่แล้ว ลงชื่อเข้าใช้ด้วย %2$s เพื่อดำเนินการต่อ</string>
+    <string name="fui_welcome_back_password_prompt_body">คุณใช้ %1$s ในการลงชื่อเข้าใช้อยู่แล้ว โปรดป้อนรหัสผ่านสำหรับบัญชีดังกล่าว</string>
+    <string msgid="730395136688082741" name="search_menu_title">"ค้นหา"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
