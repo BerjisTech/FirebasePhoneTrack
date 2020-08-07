@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pawegio.kandroid:kandroid:0.8.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1cd1d72cee6faae7b93ec1d2e9f5b8d/jetified-kandroid-0.8.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1cd1d72cee6faae7b93ec1d2e9f5b8d/jetified-kandroid-0.8.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pawegio.kandroid/kandroid/0.8.7/bfaa9951a243ed4b5d21ef0b38cb03e4ce3bb6d4/kandroid-0.8.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pawegio.kandroid/kandroid/0.8.7/49bc5b28cc29b0c319dfbad607547a8feb72b292/kandroid-0.8.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

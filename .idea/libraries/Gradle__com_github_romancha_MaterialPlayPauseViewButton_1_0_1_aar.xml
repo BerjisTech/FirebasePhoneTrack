@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.romancha:MaterialPlayPauseViewButton:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa7b2b9bc50b3dfeccc617a8ddf300a8/jetified-MaterialPlayPauseViewButton-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa7b2b9bc50b3dfeccc617a8ddf300a8/jetified-MaterialPlayPauseViewButton-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.romancha/MaterialPlayPauseViewButton/1.0.1/e7b623ad5be64c3dc9c8c452ccb260a3bfcee863/MaterialPlayPauseViewButton-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.romancha/MaterialPlayPauseViewButton/1.0.1/a8185063640819106afbed67e793c2d3ca0d46f5/MaterialPlayPauseViewButton-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

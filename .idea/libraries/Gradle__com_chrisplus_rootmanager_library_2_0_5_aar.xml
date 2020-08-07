@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.chrisplus.rootmanager:library:2.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67fa879e5f59d1112bed406c6770a87e/jetified-library-2.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67fa879e5f59d1112bed406c6770a87e/jetified-library-2.0.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.chrisplus.rootmanager/library/2.0.5/6c40b69989a615d8734ed76eb1d16fb011cc96a/library-2.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.chrisplus.rootmanager/library/2.0.5/5efe102bc6745db6a143170840e72014f9212667/library-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
